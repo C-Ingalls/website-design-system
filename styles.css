@@ -1,0 +1,34 @@
+
+
+section {
+    border: 1px solid black;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+/* Colors */
+.color-block {
+    margin: 5px auto;
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.pink {
+    background-color: #F74BF9;
+}
+
+.dark-grey {
+    background-color: #221F22;
+    color: white;
+}
+
+.seafoam {
+    background-color: #9DCCCD;
+}
+
+.green {
+    background-color: #357941;
+}
