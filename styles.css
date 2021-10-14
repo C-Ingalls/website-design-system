@@ -16,19 +16,19 @@ section {
     padding: 10px 0;
 }
 
-.pink {
-    background-color: #F74BF9;
+.goldenrod {
+    background-color: #daa520;
 }
 
-.dark-grey {
-    background-color: #221F22;
+.grey {
+    background-color: #7d7d7d;
     color: white;
 }
 
-.seafoam {
-    background-color: #9DCCCD;
+.green {
+    background-color: #83d920;
 }
 
-.green {
-    background-color: #357941;
+.blue {
+    background-color: #2055d9;
 }
