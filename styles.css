@@ -32,3 +32,22 @@ section {
 .blue {
     background-color: #2055d9;
 }
+
+/* Fonts */
+
+.font-block {
+    margin-right: 15%;
+    display: inline-block;
+}
+
+.play {
+    font-family: Play;
+}
+
+.roboto {
+    font-family: Roboto;
+}
+
+.source-code-pro {
+    font-family: "Source Code Pro";
+}
